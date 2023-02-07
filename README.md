@@ -9,7 +9,7 @@ I'm a Bachelor in Computer Science that likes to read novels online in my leisur
 * Refactoring a private project in Laravel.
 * Learned VueJS
 * Looking into React
-* ~~Preparing to make my Web Portfolio
+* ~Preparing to make my Web Portfolio~
 * Learning TypeScript
 * Learning Unit-test
 * Creating demo apps
